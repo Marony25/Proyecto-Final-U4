@@ -1,0 +1,15 @@
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\bin\Debug\net6.0\ExpTxt.exe
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\bin\Debug\net6.0\ExpTxt.deps.json
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\bin\Debug\net6.0\ExpTxt.runtimeconfig.json
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\bin\Debug\net6.0\ExpTxt.dll
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\bin\Debug\net6.0\ExpTxt.pdb
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.csproj.AssemblyReference.cache
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.AssemblyInfoInputs.cache
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.AssemblyInfo.cs
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.csproj.CoreCompileInputs.cache
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.dll
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\refint\ExpTxt.dll
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.pdb
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ExpTxt.genruntimeconfig.cache
+C:\Users\maron\Desktop\Ciclo 6(5)\APLICACION DE MODELOS DE PROGRAMACION Y ESTRUCTURA DE DATOS - GRUPO 02\Unidad 4\ProyectoU4\Crear, escribir y leer txt\ExpTxt\ExpTxt\obj\Debug\net6.0\ref\ExpTxt.dll

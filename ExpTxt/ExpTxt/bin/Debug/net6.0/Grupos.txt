@@ -1,0 +1,8 @@
+A|Qatar|Ecuador|Senegal|Países bajos
+B|Inglaterra|Irán|USA|Gales
+C|Argentina|Arabia Saudita|Mexico|Polonia
+D|Francia|Australia|Dinamarca|Túnez
+E|España|Costa Rica|Alemania|Japón
+F|Bélgica|Canadá|Marruecos|Croacia
+G|Brasil|Serbia|Suiza|Camerún
+H|Portugal|Ghana|Uruguay|Corea del sur
