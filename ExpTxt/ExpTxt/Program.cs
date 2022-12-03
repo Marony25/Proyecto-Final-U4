@@ -7,8 +7,30 @@ namespace ExpTxt
 { 
     class program
     {
+        public static String grupoPrueba;
+        
+        //Gol juego 1
+        public static int gol11;
+        public static int gol12;
+        public static int gol13;
+        public static int gol14;
+
+        //Gol juego 2
+        public static int gol21;
+        public static int gol22;
+        public static int gol23;
+        public static int gol24;
+
+        //Gol juego 3
+        public static int gol31;
+        public static int gol32;
+        public static int gol33;
+        public static int gol34;
+
+
         static void Main(String[] Args)
         {
+
             //Login
             Console.WriteLine("Ingrese sus credenciales");
             Console.Write("Usuario: ");
@@ -150,7 +172,7 @@ namespace ExpTxt
                     NodoJ equi4 = new NodoJ();
 
                     Console.WriteLine("Ingrese la letra mayuscula del grupo que desee visualizar los partidos (Ej: A, B, etc. )");
-                    String grupoPrueba = Console.ReadLine().ToString();
+                    grupoPrueba = Console.ReadLine().ToString();
 
                     Console.WriteLine("\n Grupos del mundial Qatar 2022 \n");
                     while ((line = sr.ReadLine()) != null)
@@ -167,9 +189,9 @@ namespace ExpTxt
                             Console.WriteLine("Partido 1: " + grupos[1]+" vs " + grupos[2]);
                             Console.WriteLine("Ingrese el marcador de goles");
                             Console.Write(grupos[1]+" marcador:");
-                            int gol11 = int.Parse(Console.ReadLine());
+                            gol11 = int.Parse(Console.ReadLine());
                             Console.Write(grupos[2] + " marcador:");
-                            int gol12 = int.Parse(Console.ReadLine());
+                            gol12 = int.Parse(Console.ReadLine());
                             if(gol11 == gol12)
                             {
                                 equi1.PTS++;
@@ -180,6 +202,9 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi2.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui2();
                             }
                             else if (gol11 > gol12)
                             {
@@ -194,6 +219,9 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi2.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui2();
                             }
                             else
                             {
@@ -208,15 +236,18 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi2.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui2();
                             }
                             Console.WriteLine("\n");
 
                             Console.WriteLine("Partido 2: " + grupos[3] + " vs " + grupos[4]);
                             Console.WriteLine("Ingrese el marcador de goles");
                             Console.Write(grupos[3] + " marcador:");
-                            int gol13 = int.Parse(Console.ReadLine());
+                            gol13 = int.Parse(Console.ReadLine());
                             Console.Write(grupos[4] + " marcador:");
-                            int gol14 = int.Parse(Console.ReadLine());
+                            gol14 = int.Parse(Console.ReadLine());
                             if (gol13 == gol14)
                             {
                                 equi3.PTS++;
@@ -227,6 +258,9 @@ namespace ExpTxt
 
                                 equi3.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui3();
+                                Jugadores.goleadoresEqui4();
                             }
                             else if (gol13 > gol14)
                             {
@@ -241,6 +275,9 @@ namespace ExpTxt
 
                                 equi3.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui3();
+                                Jugadores.goleadoresEqui4();
                             }
                             else
                             {
@@ -255,15 +292,18 @@ namespace ExpTxt
 
                                 equi3.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui3();
+                                Jugadores.goleadoresEqui4();
                             }
                             Console.WriteLine("\n");
 
                             Console.WriteLine("Partido 3: " + grupos[1] + " vs " + grupos[3]);
                             Console.WriteLine("Ingrese el marcador de goles");
                             Console.Write(grupos[1] + " marcador:");
-                            int gol21 = int.Parse(Console.ReadLine());
+                            gol21 = int.Parse(Console.ReadLine());
                             Console.Write(grupos[3] + " marcador:");
-                            int gol23 = int.Parse(Console.ReadLine());
+                            gol23 = int.Parse(Console.ReadLine());
                             if (gol21 == gol23)
                             {
                                 equi1.PTS++;
@@ -274,6 +314,9 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi3.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui3();
                             }
                             else if (gol21 > gol23)
                             {
@@ -288,6 +331,9 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi3.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui3();
                             }
                             else if (gol21 < gol23)
                             {
@@ -302,6 +348,9 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi3.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui3();
                             }
                             Console.WriteLine("\n");
 
@@ -309,9 +358,9 @@ namespace ExpTxt
                             Console.WriteLine("Partido 4: " + grupos[2] + " vs " + grupos[4]);
                             Console.WriteLine("Ingrese el marcador de goles");
                             Console.Write(grupos[2] + " marcador:");
-                            int gol22 = int.Parse(Console.ReadLine());
+                            gol22 = int.Parse(Console.ReadLine());
                             Console.Write(grupos[4] + " marcador:");
-                            int gol24 = int.Parse(Console.ReadLine());
+                            gol24 = int.Parse(Console.ReadLine());
                             if (gol22 == gol24)
                             {
                                 equi2.PTS++;
@@ -322,6 +371,9 @@ namespace ExpTxt
 
                                 equi2.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui2();
+                                Jugadores.goleadoresEqui4();
                             }
                             else if (gol22 > gol24)
                             {
@@ -336,6 +388,9 @@ namespace ExpTxt
 
                                 equi2.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui2();
+                                Jugadores.goleadoresEqui4();
                             }
                             else if (gol22 < gol24)
                             {
@@ -350,15 +405,18 @@ namespace ExpTxt
 
                                 equi2.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui2();
+                                Jugadores.goleadoresEqui4();
                             }
                             Console.WriteLine("\n");
 
                             Console.WriteLine("Partido 5: " + grupos[1] + " vs " + grupos[4]);
                             Console.WriteLine("Ingrese el marcador de goles");
                             Console.Write(grupos[1] + " marcador:");
-                            int gol31 = int.Parse(Console.ReadLine());
+                            gol31 = int.Parse(Console.ReadLine());
                             Console.Write(grupos[4] + " marcador:");
-                            int gol34 = int.Parse(Console.ReadLine());
+                            gol34 = int.Parse(Console.ReadLine());
                             if (gol31 == gol34)
                             {
                                 equi1.PTS++;
@@ -369,6 +427,10 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui4();
+
                             }
                             else if (gol31 > gol34)
                             {
@@ -383,6 +445,9 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui4();
                             }
                             else if (gol31 < gol34)
                             {
@@ -397,15 +462,18 @@ namespace ExpTxt
 
                                 equi1.PJ++;
                                 equi4.PJ++;
+
+                                Jugadores.goleadoresEqui1();
+                                Jugadores.goleadoresEqui4();
                             }
                             Console.WriteLine("\n");
 
                             Console.WriteLine("Partido 6: " + grupos[2] + " vs " + grupos[3]);
                             Console.WriteLine("Ingrese el marcador de goles");
                             Console.Write(grupos[2] + " marcador:");
-                            int gol32 = int.Parse(Console.ReadLine());
+                            gol32 = int.Parse(Console.ReadLine());
                             Console.Write(grupos[3] + " marcador:");
-                            int gol33 = int.Parse(Console.ReadLine());
+                            gol33 = int.Parse(Console.ReadLine());
                             if (gol32 == gol33)
                             {
                                 equi2.PTS++;
@@ -416,6 +484,9 @@ namespace ExpTxt
 
                                 equi2.PJ++;
                                 equi3.PJ++;
+
+                                Jugadores.goleadoresEqui2();
+                                Jugadores.goleadoresEqui3();
                             }
                             else if (gol32 > gol33)
                             {
@@ -430,6 +501,9 @@ namespace ExpTxt
 
                                 equi2.PJ++;
                                 equi3.PJ++;
+
+                                Jugadores.goleadoresEqui2();
+                                Jugadores.goleadoresEqui3();
                             }
                             else if (gol32 < gol33)
                             {
@@ -444,13 +518,16 @@ namespace ExpTxt
 
                                 equi2.PJ++;
                                 equi3.PJ++;
+
+                                Jugadores.goleadoresEqui2();
+                                Jugadores.goleadoresEqui3();
                             }
                             Console.WriteLine("\n");
                         }
 
                     }
 
-                    Console.WriteLine("Resultados (Equipo|PJ|G|E|P|GF|PTS)");
+                    Console.WriteLine("Resultados (Equipo|PJ|G|E|P|GD|PTS)");
 
                     List<NodoJ> list = new List<NodoJ>();
                     list.Add(equi1);
@@ -462,15 +539,11 @@ namespace ExpTxt
 
                     foreach (var dato in list.OrderByDescending(list => list.PTS).ThenByDescending(list => list.GF))
                     {
-                        Console.WriteLine(dato.Equipo + "|" + dato.PJ + "|" + dato.G + "|" + dato.E + "|" + dato.P + "|" + dato.GF + "|" + dato.PTS);
+                        Console.WriteLine(dato.Equipo +"\t"+ "|" + dato.PJ + "|" + dato.G + "|" + dato.E + "|" + dato.P + "|" + dato.GF + "|" + dato.PTS);
                     }
 
-                    Console.WriteLine("lista sin ordenar:\n"); 
+                    Jugadores.tablaDeJugadores();
 
-                    Console.WriteLine(equi1.Equipo + "|" + equi1.PJ + "|" + equi1.G + "|" + equi1.E + "|" + equi1.P + "|" + equi1.GF + "|" + equi1.PTS);
-                    Console.WriteLine(equi2.Equipo + "|" + equi2.PJ + "|" + equi2.G + "|" + equi2.E + "|" + equi2.P + "|" + equi2.GF + "|" + equi2.PTS);
-                    Console.WriteLine(equi3.Equipo + "|" + equi3.PJ + "|" + equi3.G + "|" + equi3.E + "|" + equi3.P + "|" + equi3.GF + "|" + equi3.PTS);
-                    Console.WriteLine(equi4.Equipo + "|" + equi4.PJ + "|" + equi4.G + "|" + equi4.E + "|" + equi4.P + "|" + equi4.GF + "|" + equi4.PTS);
                 }
 
             }
