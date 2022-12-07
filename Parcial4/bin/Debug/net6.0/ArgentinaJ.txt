@@ -3,7 +3,7 @@
 1|Franco Armani|0|16/10/1986
 13|Cristian Romero|0|27/04/1998
 25|Lisandro Martinez|0|18/01/1998
-6|German Pezella|27/06/1991
+6|German Pezella|0|27/06/1991
 19|Nicolas Otamendi|0|12/02/1988
 8|Marcos Acuña|0|28/10/1991
 3|Nicolas Tagliafico|0|31/08/1992
@@ -18,7 +18,7 @@
 14|Exequiel Palacios|0|05/10/1998
 16|Thiago Almada|0|26/04/2001
 17|Papu Gomez|0|15/02/1988
-10|Lionel Messi|24/06/1987
+10|Lionel Messi|0|24/06/1987
 15|Angel Correa|0|09/03/1995
 11|Paulo Dybala|0|15/11/1993
 22|Lautaro MArtinez|0|22/08/1997

@@ -1,0 +1,26 @@
+13|Justin Bijlow|0|22/01/1998
+23|Andries Noppert|0|07/04/1994
+1|Remko Pasveer|0|08/11/1983
+3|Matthijs de Ligt|0|12/08/1999
+4|Virgil van Dijk|0|08/07/1991
+2|Jurrien Timber|0|17/06/2001
+5|Nathan Aké|0|18/02/1995
+6|Stefan de Vrij|0|05/02/1992
+16|Tyrell Malacia|0|17/08/1999
+17|Daley Blind|0|09/03/1990
+26|Jeremie Frimpong|0|10/12/2000
+20|Teun Koopmeiners|0|28/02/1998
+15|Marten de Roon|0|29/03/1991
+21|Frenkie de Jong|0|12/05/1997
+24|Kenneth Taylor|0|16/05/2002
+22|Denzel Dumfries|0|18/04/1996
+25|Xavi Simons|0|21/04/2003
+11|Steven Berghuis|0|19/12/1991
+14|Davy Klaassen|0|21/02/1993
+8|Cody Gakpo|0|07/05/1999
+7|Steven Bergwijn|0|08/10/1997
+12|Noa Lang|0|17/06/1999
+10|Memphis Depay|0|13/02/1994
+19|Wout Weghorst|0|07/08/1992
+18|Vincent Janssen|0|15/06/1994
+9|Luuk de Jong|0|27/08/1990

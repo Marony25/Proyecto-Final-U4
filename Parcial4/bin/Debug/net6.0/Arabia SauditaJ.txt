@@ -1,5 +1,5 @@
 21|M. Al-Owais|0|10/10/1991
-1|Mohammed Al-Rudaie|14/08/1997
+1|Mohammed Al-Rudaie|0|14/08/1997
 22|Nawaf Al-Aqidi|0|10/05/2000
 4|Abdulelah Al-Amri|0|15/01/1997
 17|Hassan tambakti|0|09/02/1992
@@ -18,7 +18,7 @@
 7|Salman Alfaraj|0|01/08/1989
 16|Sami Al-Najei|0|07/02/1997
 18|Nawaf Al-Abed|0|26/01/1990
-10|Salem Al-Dawsari|19/08/1991
+10|Salem Al-Dawsari|0|19/08/1991
 20|Abdulrahman Al-AlOboud|0|10/06/1995
 19|Hattan Bahebri|0|16/07/1992
 9|Firas Al-Buraikan|0|14/05/2000
