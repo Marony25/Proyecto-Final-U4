@@ -1,0 +1,26 @@
+16|Edouard Mendy|0|01/03/1992
+23|Alfred Gomis|0|05/09/1993
+1|Seny Dieng|0|23/11/1994
+3|Kalidou Koulibaly|0|20/06/1991
+22|Abdou Diallo|0|04/05/1996
+4|Pape Abou Cissé|0|14/09/1995
+2|Formose Mendy|0|02/01/2001
+14|Ismail Jakobs|0|17/08/1999
+12|Fodé Ballo-Tour|0|03/01/1997
+10|Moussa N'Diaye|0|18/06/2002
+21|Youssouf Sabaly|0|05/03/1993
+26|Pape Gueye|0|24/01/1999
+6|Nampalys Mendy|0|23/06/1992
+25|Mamadou Loum|0|30/12/1996
+8|Cheikhou Kouyaté|0|21/12/1989
+17|Pape Matar Sarr|0|14/09/2002
+5|Idrissa Gueye|0|26/09/1989
+11|Pathé Ciss|0|16/03/1994
+24|Moustapha Name|0|05/05/1995
+13|Iliman Ndiaye|0|06/03/2000
+18|Ismaïla Sarr|0|25/02/1998
+7|Nicolas Jackson|0|20/06/2001
+15|Krépin Diatta|0|25/02/1999
+9|Boulaye Dia|0|16/11/1996
+20|Bamba Dieng|0|23/03/2000
+19|Famara Diédhiou|0|15/12/1992
