@@ -1,3 +1,0 @@
-A|QatarJ.txt|EcuadorJ.txt|SenegalJ.txt|Países bajosJ.txt
-B|InglaterraJ.txt|IranJ.txt|UsaJ.txt|GalesJ.txt
-C|ArgentinaJ.txt|Arabia SauditaJ.txt|MexicoJ.txt|PoloniaJ.txt
